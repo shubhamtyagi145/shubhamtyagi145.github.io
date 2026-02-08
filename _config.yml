@@ -17,11 +17,7 @@ url                      : https://shubhamtyagi145.github.io # The base hostname
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-header_pages:
-  - about.md
-  - research.md
-  - publications.md
-  - cv.md
+
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
