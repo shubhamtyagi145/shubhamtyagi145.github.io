@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 is on kinds on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Tuning the magnetic anisotropy, Curie temperature, and Dzyaloshinskii-Moriya interaction in the FeCl2 monolayer<br />APS March Meeting 2023; Las Vegas, Nevada, USA",
+    36.1674263,
+    -115.1484131
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
