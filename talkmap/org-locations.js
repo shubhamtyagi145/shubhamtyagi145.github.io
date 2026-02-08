@@ -15,7 +15,7 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "High-Performance Junction-Free Field-Effect Transistor Based on Blue Phosphorene<br />APS March Meeting, Las Vegas, Nevada, USA; Las Vegas, Nevada, USA",
+    "Tuning the magnetic anisotropy, Curie temperature, and Dzyaloshinskii-Moriya interaction in the FeCl2 monolayer<br />APS March Meeting, Las Vegas, Nevada, USA; Las Vegas, Nevada, USA",
     36.1674263,
     -115.1484131
   ]
