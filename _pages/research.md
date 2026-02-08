@@ -1,3 +1,9 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+---
+
 ## Electron Transport and Quantum Effects
 
 My research uses DFT–NEGF methods to study electron transport
