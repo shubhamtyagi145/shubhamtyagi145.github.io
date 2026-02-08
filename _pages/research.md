@@ -15,7 +15,7 @@ on coherent transport and transmission mechanisms. This was my major research ar
 
 I investigate phonon transport in heterostructures and
 superlattices, focusing on interface effects and thermal
-resistance using atomistic transport methods. This work is the main focus of my [(https://www.nqs-group.com/post/anr-project-coconut-2025-2028)). 
+resistance using atomistic transport methods. This work is the main focus of my [postdoctoral research](https://www.nqs-group.com/post/anr-project-coconut-2025-2028). 
 
 ### Multiscale Modelling of Transport Processes
 
@@ -24,7 +24,7 @@ With Phonon transport, I am also exploring ways of connecting DFT → transport 
 ### Machine Learning for Atomistic Modelling
 
 Machine learning approaches are used to accelerate atomistic
-simulations and enable multiscale modelling of transport processes. It is one of the main pillars of the [COCONUT](https://www.nqs-group.com/post/anr-project-coconut-2025-2028) I am involved with.
+simulations and enable multiscale modelling of transport processes. It is one of the main pillars of the [COCONUT](https://www.nqs-group.com/post/anr-project-coconut-2025-2028) project, I am involved with.
 
 
 
