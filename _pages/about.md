@@ -11,17 +11,11 @@ Welcome to my website! I am a postdoctoral fellow in the [Nanodevice Quantum Sim
 
 What do/did I do?
 ======
-I am a computational materials researcher working on charge and heat transport in low-dimensional materials and nanoscale devices. My research focuses on understanding nonequilibrium phenomena using first-principles simulations and atomistic modelling.
-My work combines density functional theory (DFT), nonequilibrium Green’s function (NEGF) methods, and atomistic simulations to study electron and phonon transport, current-induced effects, and thermal dissipation in nanoscale systems.
+I am a computational materials researcher (postdoctoral fellow) working on charge and heat transport in nanoscale devices. My research focuses on understanding nonequilibrium phenomena at the atomic scale using first-principles simulations and atomistic modelling.
 
-Current research directions include memristive devices based on two-dimensional materials, phonon transport in heterostructures and superlattices, and multiscale modelling approaches that integrate machine learning with physics-based simulations.
+My work combines density functional theory (DFT), nonequilibrium Green’s function (NEGF) methods, and atomistic simulations to investigate electron and phonon transport, energy dissipation, and current-driven effects in nanoscale systems. A central objective of my research is to understand how atomic structure, interfaces, and dimensionality govern transport processes and ultimately determine device performance.
+
+Current research focuses on thermal transport and thermal management in heterogeneous materials and low-dimensional materials, particularly through phonon transport in interfaces, heterostructures, and superlattices. More broadly, I am interested in multiscale approaches that bridge electronic structure methods, transport theory, and data-driven models to enable predictive simulations of functional materials and devices.
 
 
- 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
