@@ -33,5 +33,10 @@ var addressPoints = [
     "Tuning the magnetic anisotropy, Curie temperature, and Dzyaloshinskii-Moriya interaction in the FeCl2 monolayer<br />APS March Meeting 2023; Las Vegas, Nevada, USA",
     36.1674263,
     -115.1484131
+  ],
+  [
+    "Machine Learning Guided Discovery of Extreme Thermal Conductivity in Si/Ge Superlattices<br />LIMMS-IM2NP Workshop; University of Tokyo, Tokyo, Japan",
+    35.7117157,
+    139.7637457
   ]
 ];
