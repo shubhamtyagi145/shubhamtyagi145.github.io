@@ -15,6 +15,11 @@ var addressPoints = [
     -122.272863
   ],
   [
+    "High-Performance Junction-Free Field-Effect Transistor Based on Blue Phosphorene<br />MRS Spring Meeting 2023; San Francisco, California, USA",
+    37.7879363,
+    -122.4075201
+  ],
+  [
     "Tuning the magnetic anisotropy, Curie temperature, and Dzyaloshinskii-Moriya interaction in the FeCl2 monolayer<br />APS March Meeting 2023; Las Vegas, Nevada, USA",
     36.1674263,
     -115.1484131
