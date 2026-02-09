@@ -1,10 +1,10 @@
 ---
-title: "Tuning the magnetic anisotropy, Curie temperature, and Dzyaloshinskii-Moriya interaction in the FeCl2 monolayer"
+title: "High-Performance Junction-Free Field-Effect Transistor Based on Blue Phosphorene"
 collection: talks
-type: "Poster by colleague"
+type: "Talk by colleague"
 permalink: /talks/talk-2
 venue: "APS March Meeting 2023"
-date: 2023-03-08
+date: 2023-03-09
 location: "Las Vegas, Nevada, USA"
 ---
 
