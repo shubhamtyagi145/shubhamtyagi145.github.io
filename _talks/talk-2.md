@@ -8,5 +8,5 @@ date: 2023-03-09
 location: "Las Vegas, Nevada, USA"
 ---
 
-[More information here](https://meetings.aps.org/Meeting/MAR23/Session/N55.004)
+[More information here](https://meetings.aps.org/Meeting/MAR23/Session/T00.271)
 
