@@ -1,0 +1,12 @@
+---
+title: "Tuning the magnetic anisotropy, Curie temperature, and Dzyaloshinskii-Moriya interaction in the FeCl2 monolayer"
+collection: talks
+type: "Poster by colleague"
+permalink: /talks/talk-2
+venue: "APS March Meeting 2023"
+date: 2023-03-08
+location: "Las Vegas, Nevada, USA"
+---
+
+[More information here](https://meetings.aps.org/Meeting/MAR23/Session/N55.004)
+
