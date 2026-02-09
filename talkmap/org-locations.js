@@ -10,6 +10,11 @@ var addressPoints = [
     -118.242766
   ],
   [
+    "Machine Learning Guided Discovery of Extreme Thermal Conductivity in Si/Ge Superlattices<br />GDR NAME (Nanomaterials for Energy Applications) Meeting 2025; C2N, Palaiseau, Paris, France",
+    48.7123119,
+    2.1963845
+  ],
+  [
     "High-Performance Junction-Free Field-Effect Transistor Based on Blue Phosphorene<br />MRS Spring Meeting 2023; San Francisco, California, USA",
     37.7879363,
     -122.4075201
