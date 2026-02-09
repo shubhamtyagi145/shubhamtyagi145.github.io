@@ -35,6 +35,11 @@ var addressPoints = [
     -115.1484131
   ],
   [
+    "Quantum transport modeling of phonons in 2D Transition metal dichalcogenides heterostructures: A Non-Equilibrium Green's Function (NEGF) approach<br />Phonons 2025; Buenos Aires, Argentina",
+    -34.6095579,
+    -58.3887904
+  ],
+  [
     "Machine Learning Guided Discovery of Extreme Thermal Conductivity in Si/Ge Superlattices<br />LIMMS-IM2NP Workshop; University of Tokyo, Tokyo, Japan",
     35.7117157,
     139.7637457
