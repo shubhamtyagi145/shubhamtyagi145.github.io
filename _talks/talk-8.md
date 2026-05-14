@@ -8,4 +8,4 @@ date: 2026-04-21
 location: "Berlin, Germany"
 ---
 
-[More information here]([https://phonons2025.com](https://premc.org/doc/NMHT2026/BOA_NMHT2026.pdf))
+[More information here](https://premc.org/doc/NMHT2026/BOA_NMHT2026.pdf)
